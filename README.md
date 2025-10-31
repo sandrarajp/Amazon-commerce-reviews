@@ -99,8 +99,28 @@ The aim is to understand and build the mathematical foundations of ML algorithms
 2. Run all cells sequentially.  
 3. View printed outputs and plots inline.
 
-### 🔹 Option 2: Jupyter Notebook  
-1. Clone or download the repository:  
-   ```bash
-   git clone https://github.com/yourusername/amazon-commerce-reviews.git
-   cd amazon-commerce-reviews
+## Folder Structure
+amazon-commerce-reviews/
+│
+├── Amazon_Classification.ipynb      # Main Jupyter notebook
+├── Amazon_dataset.csv               # Dataset file
+├── README.md                        # Project documentation
+└── results/                         # (Optional) Saved plots or output files
+
+---
+
+##🧪 Example Outputs
+-Logistic Regression Loss Curve
+
+-Neural Network Loss Curve
+
+---
+
+##👩‍💻 Author
+
+Name:Sandra Raj P
+Institution: University of Europe
+Course: Machine Learning Fundamentals
+Instructor: Prof.Nor
+Year: 2025
+
