@@ -99,26 +99,18 @@ The aim is to understand and build the mathematical foundations of ML algorithms
 2. Run all cells sequentially.  
 3. View printed outputs and plots inline.
 
-## Folder Structure
-amazon-commerce-reviews/
-│
-├── Amazon_Classification.ipynb      # Main Jupyter notebook
-├── Amazon_dataset.csv               # Dataset file
-├── README.md                        # Project documentation
-└── results/                         # (Optional) Saved plots or output files
-
 ---
 
-##🧪 Example Outputs
+## 🧪 Example Outputs
 -Logistic Regression Loss Curve
 
 -Neural Network Loss Curve
 
 ---
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
-Name:Sandra Raj P
+Name:Sandra Raj P Data Analyst
 Institution: University of Europe
 Course: Machine Learning Fundamentals
 Instructor: Prof.Nor
