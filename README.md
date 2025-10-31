@@ -94,7 +94,7 @@ The aim is to understand and build the mathematical foundations of ML algorithms
 
 ## 🧾 How to Run  
 
-### 🔹 Option 1: Google Colab  
+###  Google Colab  
 1. Upload the notebook and dataset (`Amazon_dataset.csv`).  
 2. Run all cells sequentially.  
 3. View printed outputs and plots inline.
@@ -102,17 +102,17 @@ The aim is to understand and build the mathematical foundations of ML algorithms
 ---
 
 ## 🧪 Example Outputs
--Logistic Regression Loss Curve
+- Logistic Regression Loss Curve
 
--Neural Network Loss Curve
+- Neural Network Loss Curve
 
 ---
 
 ## 👩‍💻 Author
 
-Name:Sandra Raj P Data Analyst
-Institution: University of Europe
-Course: Machine Learning Fundamentals
-Instructor: Prof.Nor
-Year: 2025
+- Name:Sandra Raj P Data Analyst
+- Institution: University of Europe
+- Course: Machine Learning Fundamentals
+- Instructor: Prof.Nor
+- Year: 2025
 
